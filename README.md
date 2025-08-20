@@ -75,6 +75,6 @@ After Disconnecting VPN: My original IP reappeared.
 - VPNs do not make users “fully anonymous” — ISPs and VPN providers may still have logs.
 - Some websites block known VPN IP addresses.
 
-Conclusion
+## Conclusion
 
 This exercise demonstrated how a VPN works in practice. By connecting to ProtonVPN, my real IP address was successfully masked, and encrypted communication was established. VPNs are an important privacy tool, but they should be used alongside other security practices like strong passwords, HTTPS browsing, and avoiding suspicious extensions.
